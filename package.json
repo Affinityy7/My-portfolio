@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:github": "vite build --base=/your-repo-name/",
+    "build:github": "vite build --base=/My-portfolio/",
     "lint": "eslint .",
     "preview": "vite preview"
   },
